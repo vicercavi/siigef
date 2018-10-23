@@ -1,0 +1,31 @@
+
+.table-user-information  table {
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+.table-user-information > tbody > tr {
+    border-top: 1px solid rgb(221, 221, 221);
+}
+
+.table-user-information > tbody > tr:first-child {
+    border-top: 0;
+}
+.table-user-information > tbody > tr > td {
+    border-top: 0;
+    padding-left:0px; 
+}
+p{
+    word-wrap:break-word;
+}
+
+.metadata .panel-heading .pull-right {
+    margin-top: -20px;
+}
+.metadata .nav {
+    margin-top: -9px;
+}
+.metadata .nav > li > span {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}

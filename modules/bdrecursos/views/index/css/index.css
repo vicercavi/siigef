@@ -1,0 +1,11 @@
+
+#tipo_recurso .panel-body { padding:0px; }
+#tipo_recurso .panel-body table tr td { padding-left: 15px }
+#tipo_recurso .panel-body .table {margin-bottom: 0px; }
+.active2 {
+    border-right:4px solid #428bca;
+}
+
+.select-recurso-filter{
+    width: 18.5% !important;
+}

@@ -1,0 +1,44 @@
+.popover{
+
+}
+
+.modal-recurso .modal-header{
+    padding: 5px;
+}
+
+
+
+.modal-recurso .modal-header .modal-title{
+    margin: 0px 50px;
+}
+@media (min-width:112px){
+    .container{width:100%
+    }
+}
+@media (min-width:768px){
+    .container{width:100%
+    }
+    .modal-recurso .modal-dialog{
+        width: 890px;
+    }
+}
+@media (min-width:992px){
+    .container{
+        width:100%
+    }
+}
+@media (min-width:1200px){
+    .container{
+        width:100%
+    }
+}
+
+.visor {
+    margin-left: 10px !important;
+}
+
+.capa_metadata{
+    padding: 0px 0px; 
+    font-size: 10px;
+}
+

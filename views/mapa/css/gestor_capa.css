@@ -1,0 +1,13 @@
+.modal_leyenda .modal-dialog{
+    width: 300px;
+    margin: 30px auto;
+    float: right;
+}
+
+.modal_leyenda .modal-backdrop{
+    display: none;
+}
+
+#map{
+    height: 600px;
+}

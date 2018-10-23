@@ -1,0 +1,12 @@
+body {
+    font-family: "calibri",helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}

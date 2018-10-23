@@ -1,0 +1,19 @@
+.btn-buscador{
+      padding: 4px 12px 0px;
+      font-size: 20px;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+}
+.div-filtro
+{
+	padding: 15px 0px;
+	font-size: 1.1em
+}
+
+.div-filtro a{
+	text-decoration: none;
+}
+
+.div-filtro a:hover{
+	background-color: #d63232;
+}

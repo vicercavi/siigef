@@ -1,0 +1,20 @@
+.modal_leyenda .modal-dialog{
+    width: 300px;
+    margin: 30px auto;
+    float: right;
+}
+
+.modal_leyenda .modal-backdrop{
+    display: none;
+}
+
+#map{
+    height: 300px;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    margin: -2px;
+}

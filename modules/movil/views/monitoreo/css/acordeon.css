@@ -1,0 +1,28 @@
+
+#acordeon_didesweb{ 
+padding: 0 0 0 0;
+list-style-type: none;
+background-color: white;
+}
+.menues { 
+background: #727171; 
+color: white; 
+/* border-bottom: 1px solid #333333; */ 
+/* border-top: 1px solid #444444; */ 
+cursor: pointer;
+margin: 0px 0px 5px 0px;
+padding: 7px; 
+}
+.h4{
+    text-shadow: none;
+}
+.contenido_acordeon { 
+/*background: #CCCCCC; 
+line-height: 1.6em;
+padding: 20px;
+width: 250px;*/
+}
+.menues.desplegado, .menues:hover { 
+background: #727171;
+color: #040404;
+}

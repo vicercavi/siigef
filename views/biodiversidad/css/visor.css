@@ -1,0 +1,64 @@
+ 
+.visorbio .panel-group  {
+    margin-bottom: 5px;
+}
+
+.visorbio .panel-group .divider {
+    height: 1px;
+    /* margin: 9px 1px; */
+    overflow: hidden;
+    background-color: #F1F1F1;
+    border-bottom: 1px solid #FFFFFF;
+}
+.visorbio .panel-group .panel {
+    margin-top: 0px;
+    border-radius: 0px;
+    border: none;
+}
+.visorbio .panel-body2 {
+    background: #DCDCDC;
+}
+.visorbio .panel-group .panel .panel-body {
+    padding: 0 0 0 10px;
+    background: #DCDCDC;
+}
+
+.visorbio .panel-group .panel-default {
+    border-radius: 0px;     
+    /* border-color: #ddd; */
+}
+.visorbio .panel-heading  {   
+    background-color: #EFEFEF;
+}
+.visorbio .panel-heading2 {   
+    background: #DCDCDC;
+}
+.visorbio .panel-heading {
+    padding: 8px 8px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;  
+}
+.visorbio .panel-heading .panel-title{
+    color: #000;
+    font-weight: bold;    
+    font-size: 14.4px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.visorbio .panel {
+    margin-bottom: 0;
+    background-color: transparent;
+    border: none;
+    border-radius: 0px;
+    box-shadow:none;
+}
+.visorbio label{
+    margin-bottom: 0px;
+}
+.visorbio  small{
+    margin-left: 5px;
+    font-style: italic;
+    color: #606060;
+    font-weight: bold;
+}
+

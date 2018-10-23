@@ -1,0 +1,13 @@
+  .tit-p{
+  text-align: left;
+  font-size: 1.8em;
+}
+.cont-form-buscador{
+	text-align: right;
+}
+.ic-paises{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	margin: .5em;
+}

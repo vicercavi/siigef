@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07/06/2015, 06:20:05 PM
+    Author     : ROCAVI
+*/
+.title-sii {
+    margin-top: 4px;
+
+}
+.title-sii h4{
+    color: #ffffff;
+    text-align: center;
+}
+
+.title-sii .title-md{
+    display: block;
+}
+.title-sii .title-md{
+    display: block;
+}
+
+@media (max-width: 767px) {
+    #cargando {
+        top: 101px !important;
+        left: 64% !important;
+    }
+}
+@media (min-width: 1360px) {
+    .title-sii .title-md {
+        display: none;
+    }
+    .title-sii .title-lg {
+        display: block;
+    }
+
+}
+@media (max-width: 1359px) {
+    .title-sii .title-lg {
+        display: none;
+    }
+    .title-sii .title-md {
+        display: block;
+    }
+}

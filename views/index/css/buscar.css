@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21/03/2015, 07:13:35 PM
+    Author     : JHON CHARLIE
+*/
+#tipo_documento{    
+    color: #C90D14;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 1px;
+}
+#numero{      
+    color: Black;
+    font-weight: bold;
+}
+.titulo{    
+    color: Blue;
+    font-weight: bold;
+    font-size: 18px;
+}
+.segundo{    
+    color: Black;
+    font-weight: bold;
+    font-size: 16px;
+}
+.autor{    
+    color: #000000;
+    font-size: 15px;
+    font-weight: bold;
+}
+.tema{    
+    color: Black;
+    font-weight: bold;
+}
+.cajita{    
+    border-color: #000000;
+}
+
+.form_registrar_documento
+{  max-width: 90%;
+    padding: 0 5px;
+    margin: 0 auto;
+}
+.table-registro-documento{
+    direction: ltr;
+}
+.table-registro-documento label{
+  margin: 1px 0;
+  font-family: inherit;
+  font-weight: bold;
+  line-height: 1;
+  color: inherit;
+}
+
+.btn-buscador{
+      padding: 4px 12px 0px;
+      font-size: 20px;
+}
+
+.div-filtro
+{
+  padding: 15px 0px;
+  font-size: 1.1em
+}
+
+.div-filtro a{
+  text-decoration: none;
+}
+
+.div-filtro a:hover{
+  background-color: #d63232;
+}

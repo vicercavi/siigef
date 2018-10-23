@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05/05/2015, 11:56:38 AM
+    Author     : ROCAVI
+*/
+#cargando { 
+    display: none;
+    /* position: fixed; */
+    position: fixed;
+    width: 219px;
+    height: 25px;
+    top: 72px;
+    left: 54%;
+    margin-left: -180px;
+    z-index: 5;
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #999;
+}
+.cargando {
+
+    width: 100%;  height: 100%;
+    background-color: #F8F3F3;
+    background-image: url(../img/loadinbar.gif);
+    background-position: center center;
+    background-repeat: no-repeat; 
+}
+/*Formularios */
+.titulo-view{
+    margin-top: 0px !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+}
+
+#_errl,#_msgl,#_mensaje{
+    position: fixed;
+    z-index: 20;
+    right: 30px;
+    float: right;
+}
+
+

@@ -1,0 +1,34 @@
+.jsoftCollap{
+  cursor: pointer;
+}
+.jsoftCollap:hover{
+  background: #FFFFFF;
+}
+.idiomas{
+    padding:.25em;
+    box-sizing:border-box;
+    height: 20px;
+}
+.idiomas li{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+}
+
+.idiomas li a,.idiomas li span{
+    display: block;
+    color: #FFFFFF;
+    font-size: .95em;
+    vertical-align: top;	
+}
+.idiomas li:hover{
+    background: #005580 ;
+    color: #FFFFFF;
+}
+
+//formularios
+.titulo-view{
+      margin-top: 0px;
+  text-align: center;
+  text-transform: uppercase;
+}
